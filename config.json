@@ -1,0 +1,32 @@
+{
+    "flux_model_path": "/mnt3/data/open_source/black_forest-labs__FLUX.1-dev",
+    "control_model_path": "/mnt3/data/open_source/InstantX__FLUX.1-dev-Controlnet-Canny",
+    "travel_topic": "Dreamy Romantic Journey to Japan",
+    "sources": [
+        {
+            "title": "Tokyo",
+            "text": "A magical night in Tokyo with the iconic Tokyo Tower glowing softly against a backdrop of city lights, casting a romantic orange hue over the skyline. The bustling streets below are full of life and energy, with a gentle breeze in the air. Imagine a moment of awe and wonder as you gaze at the tower.",
+            "photo": "1"
+        },
+        {
+            "title": "Osaka",
+            "text": "An evening in Osaka, with vibrant neon signs reflecting on the water of the canal in Dotonbori. The colors are bright and lively, creating a festive and dynamic scene. The atmosphere is warm, with delicious street food in the air, and the energy of the city all around you.",
+            "photo": "2"
+        },
+        {
+            "title": "Nara",
+            "text": "In the peaceful city of Nara, soft light filters through the trees as gentle deer roam freely. The setting is calm and serene, surrounded by ancient temples and a sense of timelessness. Picture a moment of quiet connection with nature and history, in a harmonious landscape.",
+            "photo": "3"
+        },
+        {
+            "title": "Kyoto",
+            "text": "The beauty of Kyoto on a spring day, with the Kiyomizu Temple perched gracefully on the hillside. Cherry blossoms float through the air, their pink petals creating a soft, romantic glow. The view from the temple stretches over the ancient city, with the tranquil beauty of nature all around.",
+            "photo": "4"
+        },
+        {
+            "title": "Airport",
+            "text": "The final moment of the trip, drifting into a peaceful sleep on the flight home. The journey was unforgettable, filled with beautiful memories of vibrant cities, serene temples, and romantic evenings under the stars.",
+            "photo": ""
+        }
+    ]
+}
