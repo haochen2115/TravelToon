@@ -1,7 +1,10 @@
 {
     "flux_model_path": "/mnt3/data/open_source/black-forest-labs__FLUX.1-dev",
     "control_model_path": "/mnt3/data/open_source/InstantX__FLUX.1-dev-Controlnet-Canny",
-    "travel_topic": "Dreamy Romantic Journey to Japan",
+    "lora_model_path":"/mnt3/data/open_source/XLabs-AI__flux-lora-collection",
+    "lora_weight_name":"scenery_lora.safetensors",
+    "lora_adapter_name":"scenery_lora",
+    "travel_topic": "Journey_to_Japan",
     "sources": [
         {
             "title": "Tokyo",
@@ -24,7 +27,7 @@
             "photo": "4"
         },
         {
-            "title": "Airport",
+            "title": "Fly",
             "text": "The final moment of the trip, drifting into a peaceful sleep on the flight home. The journey was unforgettable, filled with beautiful memories of vibrant cities, serene temples, and romantic evenings under the stars.",
             "photo": ""
         }
